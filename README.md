@@ -42,7 +42,7 @@ A log of the tools installed, steps completed, and issues encountered while sett
 ### 5. Open the Repository in Cursor
 - Cloned the repository locally:
   ```bash
-  git clone https://github.com/<your-username>/<your-repo>.git
+  git clone https://github.com/<Herbie-njagi>/<My-repo>.git
   ```
 - In Cursor: **File → Open Folder** → selected the cloned repo folder
 
